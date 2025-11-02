@@ -55,5 +55,9 @@ We construct a benchmark dataset of 9 downstream prediction tasks spanning socia
 
 ![tasks](/figures/tasks.png)
 
+## Accreditation
+
+Ya Wen and Jixuan Cai and Qiyao Ma and Linyan Li and Xinhua Chen and Chris Webster and Yulun Zhou (2025). MoRA: Mobility as the Backbone for Geospatial Representation Learning at Scale. Arxiv. https://arxiv.org/abs/2506.01297.
+
 
 
